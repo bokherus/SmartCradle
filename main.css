@@ -1,0 +1,92 @@
+body {
+    background-image: url("wallpaper/bg.jpg");
+    background-size: cover;
+}
+.main-overview {
+   background-color: rgba(0, 0, 0, 0.2);
+   color: white;
+   text-align: center;
+   font-size: 15pt;
+   position: relative;
+}
+.head-panel {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 70px;
+}
+.info {
+     background-color: rgba(0, 0, 0, 0.2);
+     font-size: 12 pt;
+     padding: 2em;
+}
+.row {
+    padding: 1em;
+    position: relative;
+}
+#product-name {
+    font-size: 22pt;
+    padding-left: 1em;
+    padding-top: 0.5em;
+}
+.condition-status {
+    color: greenyellow;
+    opacity: 0.8;
+    font-size: 30pt;
+    padding-bottom: 2em;
+}
+#soundstatus {
+    font-size: 30pt;
+    text-align: center;
+    position: absolute;
+    margin-left: 50%;
+    padding-top: 10%;
+}
+#pantstatus {
+    font-size: 30pt;
+    text-align: center;
+    padding-top: 10%;
+}
+#date {
+    color: white;
+    font-size: 40pt;
+    font-family: "Digital-7";
+    text-align: right;
+    margin: auto 1em;
+}
+.cradle-control {
+    padding: 3em;
+    padding-bottom: 4em;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#cradle-control-button {
+    margin: 1em;
+}
+#status-control-button {
+    margin: 1em;
+}
+.cradle-level {
+    font-size: 12pt;
+    padding: 2em;
+}
+#graph {
+  z-index: -10;
+  align-content: center;
+}
+.image-set {
+    border: 2px;
+}
+#infant-status {
+    padding-top: 20%;
+    font-size: 45pt;
+}
+#auto-button {
+    padding-left: 5em;
+    font-size: 10pt;
+}
+#credits {
+    text-align: right;
+    color: darkgrey;
+    font-size: 9pt;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
